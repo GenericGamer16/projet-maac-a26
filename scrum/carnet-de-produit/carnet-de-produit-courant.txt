@@ -1,0 +1,22 @@
+# Carnet de produit
+La mangeoire devrait être capable de mesurer le poids de la nourriture. Un chien de taille moyenne peut manger entre 200 et 400 grammes de nourriture par repas.
+La mangeoire doit pouvoir détecter s'il est bloqué. Une notification sonore, visuel ou autres, doit être mise en place.
+La mangeoire doit pouvoir se débloquer au besoin. Un mécanisme doit être prévu pour éviter les blocages.
+La mangeoire doit avoir une interface utilisateur agréable et simple.
+La mangeoire doit supporter une programmation des heures de repas. Le support AM et PM ainsi que 24 heures supportés.
+La mangeoire doit avoir une quantité variable supporter une programmation des quantités de chaque repas.
+La mangeoire doit afficher la quantité de nourriture restante.
+La mangeoire devrait avertir qu'il ne reste pas assez de nourriture.
+La mangeoire doit supporter le système métrique et impérial. Pour la vente dans les marchés anglo-saxons, le support des onces est nécessaire.
+La mangeoire doit supporter le français et l'anglais. Pour le déploiement initial en Amérique du Nord, les deux langues officielles du Canada devront être supportés.
+L’interface usager devra supporter les langues du continent européen par la suite (Allemand, Russe, Italien, Espagnol, Polonais, Ukrainien, Roumain, Néerlandais).
+L'entrée du réservoir doit être scellé. Si le réservoir tombe de côté, il ne doit s’ouvrir.
+La mangeoire doit résister aux éclaboussures.
+La mangeoire doit être stable et ne pas tomber lors de l’utilisation normale.
+La mangeoire doit arrêter de fonctionner lorsqu'il est renversé ou vide.
+La mangeoire devrait empêcher la nourriture de devenir trop humide.
+La mangeoire devrait être capable de nourrir un chat normal pour 5 jours. Pour des croquettes denses en énergie on parle de 40 à 60 grammes par jours.
+La mangeoire mesure l'humidité de la nourriture (nice to have).
+La mangeoire doit être disponible en plusieurs couleurs (nice to have).
+La mangeoire doit avoir un prix de vente d’environ 60 dollars canadiens, soit un coût de fabrication d’environ 15 dollars.
+La mangeoire doit posséder une batterie de secours pour nourrir l’animal même en période de panne de courant.
