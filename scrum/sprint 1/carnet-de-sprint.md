@@ -1,6 +1,3 @@
-# Objectif de sprint
-Avoir un prototype fonctionnel
-
 # Éléments à implémenter
 - La mangeoire devrait être capable de mesurer le poids de la nourriture. Un chien de taille moyenne peut manger entre 200 et 400 grammes de nourriture par repas.
 	- Utilisation d'une loadcell
