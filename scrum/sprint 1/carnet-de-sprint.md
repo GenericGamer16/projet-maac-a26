@@ -46,14 +46,14 @@ Avoir un prototype fonctionnel
 ### Tâches
 |Tâches liées à l'écran tactile|Temps estimé|
 |-------|-------|
-|Trouver une librairie Arduino pour l'écran avec le ILI9341| heures|
-|Tester la compatibilité de la librairie sur un Nano Every| heures|
-|Implémenter le driver du module touch (ILI9341)| heures|
-|Implémenter les fonctions d'affichage de l'écran (ILI9341)| heures|
-|Créer une fonction d'alerte qui affiche un message sur l'écran.| heures|
-|Faire une fonction temporaire qui active le moteur de la mangeoire lorsque l'écran est touché| heures|
-|Implémenter une fonction qui affiche le poid actuel sur l'écran| heures|
-|Temps total| heures|
+|Trouver une librairie Arduino pour l'écran avec le ILI9341| 1 heures|
+|Tester la compatibilité de la librairie sur un Nano Every| 1 heures|
+|Implémenter le driver du module touch (ILI9341)| 1 heures|
+|Implémenter les fonctions d'affichage de l'écran (ILI9341)| 2 heures|
+|Créer une fonction d'alerte qui affiche un message sur l'écran.| 1 heures|
+|Faire une fonction temporaire qui active le moteur de la mangeoire lorsque l'écran est touché| 2 heures|
+|Implémenter une fonction qui affiche le poid actuel sur l'écran| 1 heures|
+|Temps total| 9 heures|
 
 ## GenericGamer16
 ### Élements du backlog

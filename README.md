@@ -42,17 +42,18 @@ aurez besoins de la liste de pièce suivante et de certaines librairies
 
 - [x] un module Arduino Nano
 
-  <img width="175" height="150" alt="image" src="https://github.com/user-attachments/assets/ff81d9a1-d9c4-401d-8e2c-f5d0d5a4e31d" />
+  <img src="Images/arduino_nano_every.png" width="175" height="150">
 
   
-- [x] une loadcell de minimum 2Kg
+- [x] une load cell de minimum 2Kg
 
-  <img width="175" height="150" alt="image" src="https://github.com/user-attachments/assets/234924c7-8524-40c0-9772-6604920b120a" />
+
+  <img src="Images/loadcell_hx711.png" width="175" height="150">
 
   
 - [x] un écran tactile (ex : LCD TFT 2,8" ILI9341)
 
- <img width="175" height="150" alt="image" src="https://github.com/user-attachments/assets/1e75de86-69fd-4894-b753-feaaef90da18" />
+ <img src="Images/touch_screen_ili9341.png" width="175" height="150">
 
 
 - [x] un moteur : *à déterminer le type*
