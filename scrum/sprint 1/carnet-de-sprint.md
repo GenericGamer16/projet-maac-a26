@@ -49,11 +49,11 @@ Avoir un prototype fonctionnel
 |Trouver une librairie Arduino pour l'écran avec le ILI9341| 1 heures|
 |Tester la compatibilité de la librairie sur un Nano Every| 1 heures|
 |Implémenter le driver du module touch (ILI9341)| 1 heures|
-|Implémenter les fonctions d'affichage de l'écran (ILI9341)| 2 heures|
+|Implémenter les fonctions d'affichage de l'écran (ILI9341)| 1 heures|
 |Créer une fonction d'alerte qui affiche un message sur l'écran.| 1 heures|
 |Faire une fonction temporaire qui active le moteur de la mangeoire lorsque l'écran est touché| 2 heures|
 |Implémenter une fonction qui affiche le poid actuel sur l'écran| 1 heures|
-|Temps total| 9 heures|
+|Temps total| 8 heures|
 
 ## GenericGamer16
 ### Élements du backlog
@@ -67,20 +67,19 @@ Avoir un prototype fonctionnel
 
 |Tâches liées au moteur|Temps estimé|
 |-------|-------|
-|Créer une fonction qui active le moteur dans le sens horaire| heures|
-|Créer une fonction qui active le moteur dans le sens anti-horaire (optionnel pour ce sprint)| heures|
-|Créer une fonction qui détecte l'état du moteur et appel une fonctions d'alerte si il est bloqué| heures|
-|Temps total| heures|
+|Créer une fonction qui active le moteur dans le sens horaire|3 heures|
+|Créer une fonction qui active le moteur dans le sens anti-horaire |30 minutes|
+|Trouver une méthode pour détecter un blocage moteur (optionnel pour ce sprint)|5 heures|
+|Temps total|8.5 heures|
 
 |Tâches liées à la Loadcell|Temps estimé|
 |-------|-------|
-|Trouver une librairie Arduino pour le HX711| heures|
-|Tester la librairie et faire la calibration| heures|
-|Implémenter une fonction qui mesure le poid actuel| heures|
-|Implémenter une fonction qui détecte si la mangeoire est renversé en regardant si le poids est négatif| heures|
-|Implémenter une fonction pour mesurer les poids sur la loadcell| heures|
-|Implémenter une fonction "tare" (mise à zero)| heures|
-|Temps total| heures|
+|Trouver une librairie Arduino pour le HX711|2 heures|
+|Tester la librairie et faire la calibration|3 heures|
+|Implémenter une fonction qui mesure le poid actuel|3 heures|
+|Implémenter une fonction qui détecte si la mangeoire est renversé en regardant si le poids est négatif|1 heure|
+|Implémenter une fonction "tare" (mise à zero)|2 heures|
+|Temps total|11 heures|
 
 
 ## Artgameur
@@ -100,7 +99,7 @@ Avoir un prototype fonctionnel
 |Modelisation de l'habitacle du moteur|2 heures|
 |Modelisation de la vis sans fin|4 heures|
 |Modelisation du couvercle|2 heures|
-|Modelisation de l'habitacle de la loadcel|1 heures|
+|Modelisation de l'habitacle de la loadcel|1 heure|
 |Modelisation de la plaque en suspend (prise du poids)|2 heures|
 |Tests et ajustements des models|5 heures|
 |Temps total|20 heures|
