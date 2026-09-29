@@ -46,14 +46,16 @@ Avoir un prototype fonctionnel
 ### Tâches
 |Tâches liées à l'écran tactile|Temps estimé|
 |-------|-------|
-|Trouver une librairie Arduino pour l'écran avec le ILI9341| 1 heures|
-|Tester la compatibilité de la librairie sur un Nano Every| 1 heures|
-|Implémenter le driver du module touch (ILI9341)| 1 heures|
-|Implémenter les fonctions d'affichage de l'écran (ILI9341)| 1 heures|
-|Créer une fonction d'alerte qui affiche un message sur l'écran.| 1 heures|
-|Faire une fonction temporaire qui active le moteur de la mangeoire lorsque l'écran est touché| 2 heures|
-|Implémenter une fonction qui affiche le poid actuel sur l'écran| 1 heures|
-|Temps total| 8 heures|
+|Trouver une librairie Arduino pour l'écran avec le ILI9341|1 heures|
+|Assigner les pins pour l'écran tactile et faire le branchement temporaire|2 heures|
+|Configurer les pins de l'écran tactile|1 heures|
+|Tester la compatibilité de la librairie sur un Nano Every|3 heures|
+|Implémenter le driver du module touch (ILI9341)|2 heures|
+|Implémenter les fonctions d'affichage de l'écran (ILI9341)|3 heures|
+|Créer une fonction d'alerte qui affiche un message sur l'écran.|1 heures|
+|Faire une fonction temporaire qui active le moteur de la mangeoire lorsque l'écran est touché|2 heures|
+|Implémenter une fonction qui affiche le poid actuel sur l'écran|1 heures|
+|Temps total|13 heures|
 
 ## GenericGamer16
 ### Élements du backlog
@@ -67,19 +69,23 @@ Avoir un prototype fonctionnel
 
 |Tâches liées au moteur|Temps estimé|
 |-------|-------|
+|Assigner les pins pour le moteur et faire le branchement temporaire|1 heures|
+|Configurer les pins du moteur|1 heures|
 |Créer une fonction qui active le moteur dans le sens horaire|3 heures|
 |Créer une fonction qui active le moteur dans le sens anti-horaire |30 minutes|
-|Trouver une méthode pour détecter un blocage moteur (optionnel pour ce sprint)|5 heures|
+|Trouver une méthode pour détecter un blocage moteur (optionnel pour ce sprint)|3 heures|
 |Temps total|8.5 heures|
 
 |Tâches liées à la Loadcell|Temps estimé|
 |-------|-------|
+|Assigner les pins pour la loadcell et faire le branchement temporaire|1 heures|
+|Configurer les pins de la loadcell|30 minutes|
 |Trouver une librairie Arduino pour le HX711|2 heures|
 |Tester la librairie et faire la calibration|3 heures|
 |Implémenter une fonction qui mesure le poid actuel|3 heures|
 |Implémenter une fonction qui détecte si la mangeoire est renversé en regardant si le poids est négatif|1 heure|
 |Implémenter une fonction "tare" (mise à zero)|2 heures|
-|Temps total|11 heures|
+|Temps total|12.5 heures|
 
 
 ## Artgameur
@@ -99,7 +105,7 @@ Avoir un prototype fonctionnel
 |Modelisation de l'habitacle du moteur|2 heures|
 |Modelisation de la vis sans fin|4 heures|
 |Modelisation du couvercle|2 heures|
-|Modelisation de l'habitacle de la loadcel|1 heure|
+|Modelisation de l'habitacle de la loadcell|1 heure|
 |Modelisation de la plaque en suspend (prise du poids)|2 heures|
 |Tests et ajustements des models|5 heures|
 |Temps total|20 heures|
