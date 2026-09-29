@@ -42,7 +42,7 @@ aurez besoins de la liste de pièce suivante et de certaines librairies
 
 - [x] un module Arduino Nano
 
-  <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/b28aad2a-94f3-409a-a2e4-3ab7516699cb" />
+  <img width="175" height="150" alt="image" src="https://github.com/user-attachments/assets/ff81d9a1-d9c4-401d-8e2c-f5d0d5a4e31d" />
 
   
 - [x] une loadcell de minimum 2Kg
@@ -55,9 +55,7 @@ aurez besoins de la liste de pièce suivante et de certaines librairies
  <img width="175" height="150" alt="image" src="https://github.com/user-attachments/assets/1e75de86-69fd-4894-b753-feaaef90da18" />
 
 
-- [x] un moteur dc
-
-<img width="175" height="150" alt="image" src="https://github.com/user-attachments/assets/5db5eeba-8b95-4d51-8b79-1b4fce54b12f" />
+- [x] un moteur : *à déterminer le type*
 
 
 
