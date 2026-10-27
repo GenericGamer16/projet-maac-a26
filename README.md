@@ -53,7 +53,8 @@ aurez besoins de la liste de pièce suivante et de certaines librairies
   
 - [x] un écran tactile (ex : LCD TFT 2,8" ILI9341)
 
- <img src="Images/touch_screen_ili9341.png" width="175" height="150">
+
+  <img src="Images/touch_screen_ili9341.png" width="175" height="150">
 
 
 - [x] un moteur Stepper Nema 17
