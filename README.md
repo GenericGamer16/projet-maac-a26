@@ -56,10 +56,17 @@ aurez besoins de la liste de pièce suivante et de certaines librairies
  <img src="Images/touch_screen_ili9341.png" width="175" height="150">
 
 
-- [x] un moteur : *à déterminer le type*
+- [x] un moteur Stepper Nema 17
 
+  <img src="Images/StepperMotor_Nema17.jpg" width="175" height="150">
 
+- [x] le pilote «Big Easy Driver» de Sparkfun Electronics
 
+  <img src="Images/Big_Easy_Driver.jpg" width="175" height="150">
+
+- [x] un accéléromètre GY-61
+
+  <img src="Images/accelerometre_GY-61.jpg" width="175" height="150">
 
 ##### *liste des librairie à utiliser :*
 
