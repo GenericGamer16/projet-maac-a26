@@ -47,12 +47,10 @@ aurez besoins de la liste de pièce suivante et de certaines librairies
   
 - [x] une load cell de minimum 2Kg
 
-
   <img src="Images/loadcell_hx711.png" width="175" height="150">
 
   
 - [x] un écran tactile (ex : LCD TFT 2,8" ILI9341)
-
 
   <img src="Images/touch_screen_ili9341.png" width="175" height="150">
 
@@ -65,7 +63,7 @@ aurez besoins de la liste de pièce suivante et de certaines librairies
 
   <img src="Images/Big_Easy_Driver.jpg" width="175" height="150">
 
-- [x] un accéléromètre GY-61
+- [x] un accéléromètre GY-61 (ADXL335)
 
   <img src="Images/accelerometre_GY-61.jpg" width="175" height="150">
 
