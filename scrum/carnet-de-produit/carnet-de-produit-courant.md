@@ -24,7 +24,7 @@
 
 - [ ] La mangeoire doit résister aux éclaboussures puisqu'un bol de nourriture est souvent à côté d'un bol d'eau.
 
-- [ ] La mangeoire doit être stable et ne pas tomber lors de l’utilisation normale.
+- [X] La mangeoire doit être stable et ne pas tomber lors de l’utilisation normale.
 
 - [ ] La mangeoire doit arrêter de fonctionner lorsqu'il est renversé ou vide.
 
